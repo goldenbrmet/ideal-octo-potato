@@ -13,4 +13,4 @@
  
  ## Conclustion 
  
- ## How youi can contribute
+ ## How you can contribute
